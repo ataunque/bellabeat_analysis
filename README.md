@@ -72,14 +72,14 @@ Perform calculations, create visualizations, and communicate our findings based 
 
 ### **Sleep Trends**
 
-![](readme_images\time_spent_bed.png)
+![](readme_images/time_spent_bed.png)
 
 **How is time spent in bed each day (Sleep Efficiency)?**
 
 On average, Fitbit users spend 7.64 hours in bed each day, with 7 hours dedicated to sleep each night. Additionally, they experience approximately 40 minutes of wakefulness or restlessness while in bed.
 
 
-![](readme_images\sleep_excercise.png)
+![](readme_images/sleep_excercise.png)
 
 **Does More Daily Exercise Give Better Sleep?**
 
@@ -87,19 +87,19 @@ Surprisingly, contrary to scientific studies, we find a very weak negative corre
 
 ### **Exercise Trends**
 
-![](readme_images\daily_activity.png)
+![](readme_images/daily_activity.png)
 
 **Most active time of day (hour) and least active time of day?**
 
 The peak hours for physical activity typically occur between 5 PM and 7 PM, which coincides with the end of the traditional workday when people have more time for exercise. Conversely, there is a decrease in activity levels around 3 PM, possibly due to the post-lunch energy dip. Interestingly, activity levels start to rise around 6 AM, indicating that most participants are awake and potentially starting their day. However, between 6 AM and 8 AM, there is a relative decrease in the number of steps taken, suggesting that exercise is not a common part of the morning routines for many individuals. The majority of daily physical activity tends to take place between 7 AM and 11 PM, which corresponds to the average time spent in bed duration of around 7.64 hours noted earlier.
 
-![](readme_images\intensity_pie.png)
+![](readme_images/intensity_pie.png)
 
 **Which intensity of activity is most common?**
 
 The majority of the recorded activity, accounting for 83.9%, falls within the sedentary category, followed by light activity at 13.6%. This distribution aligns with the nature of step measurement, as most steps are taken for routine tasks and daily activities. However, what stands out is that both moderate and intense activities each constitute less than 2% of the recorded activity. This suggests that a significant portion of users may not be actively engaging in rigorous exercise or may not be primarily using their wearables for tracking fitness goals. Instead, they may be using these wearables more for visualizing their daily activity patterns, including steps taken during routine tasks and light activities.
 
-![](readme_images\calories_burned.png)
+![](readme_images/calories_burned.png)
 
 **Calories burned vs. Steps taken**
 
